@@ -1,0 +1,98 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/plantilla.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link href="style.css" rel="stylesheet" type="text/css" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Terapia de la Dislexia en Costa Rica</title>
+<!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+
+<body>
+<div id="container">
+  <div id="header">
+        <div id="logo1"><img src="images/logo1.gif" width="330" height="100" /></div>
+        <div id="logo2"><img src="images/logo2.gif" width="330" height="100" /></div>
+        <div id="logo3">Centro para el Desarrollo<br />
+        de Habilidades</div>
+        <div id="davis"><img src="images/ddailogo.gif" width="100" height="78" /></div>
+        <div id="marcela">M.Sc. Marcela Rodriguez Ocampo<br>
+    Facilitadora Autorizada</div>
+	<div id="features">Menu Principal</div><div id="flash"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="400" height="212">
+  <param name="movie" value="header_dislexia.swf" />
+  <param name="quality" value="high" />
+  <embed src="header_dislexia.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="400" height="212"></embed>
+</object></div>
+  </div>
+	<div id="border">
+		<div id="main">
+			<div id="left">
+				<div id="menu">
+					<ul>
+						<li><a href="index.html">Inicio</a></li>
+						<li><a href="caracteristicas.html">Caracter&iacute;sticas Persona Disl&eacute;xica</a></li>
+						<li><a href="davis.html">M&eacute;todo Davis</a> &reg;</li>
+						<li><a href="famosos.html">Disl&eacute;xicos Famosos</a></li>
+						<li><a href="testimonios.html">Historias y Testimonios</a></li>
+						<li class="lastchild"><a href="contacto.html">Como Contactarnos</a></li>
+					</ul>
+			  </div>
+				<div id="menubottom">
+					<ul>
+						<li><a href="index.html">Inicio</a></li>
+						<li><a href="marcela.html">Acerca de</a></li>
+						<li><a href="contacto.html">Contactos</a></li>
+					</ul>
+				</div>
+			</div>
+			<div id="right">
+				<div class="content"><!-- InstanceBeginEditable name="contenido" -->
+				  <h2>Disl&eacute;xicos famosos</h2>
+				  <p>&ldquo;Tener dislexia no convierte a alguien en un  genio, pero es bueno para la autoestima saber que su mente funciona de la misma  manera que la de ciertos genios.&rdquo; (Ron Davis, &ldquo;El Don de la Dislexia&rdquo;)</p>				 
+				  <h3>Hay disl&eacute;xicos reconocidos  en el mundo:</h3>
+				  <h4>Cient&iacute;ficos&nbsp; inventores</h4>
+				  <strong><li>Alberto Einstein</li>
+				  <li>				    Thomas A. Edison</li>
+				  <li>				    Alexander Graham Bell </li>
+				  </strong></p>
+				  <p>&nbsp;</p>
+				  <h4>Artistas</h4>
+				  <strong><li>Leonardo Da Vinci</li>
+				  <li>				    Walt Disney </li>
+				  </strong></p>
+				  <h4>&nbsp;</h4>
+				  <h4>Estrategas  militares y pol&iacute;ticos</h4>
+				  <strong><li>Winston Churchill.</li>
+				  <li>			      George Patton			    </li>
+			    </strong>
+				  </p>
+				  <p>&nbsp;</p>
+				  <h4>Actores</h4>
+				  <strong><li>Cher </li>
+				  <li>				    Whoopi  Goldberg</li>
+				  <li>				    Tom  Cruise </li>
+				  </strong></p>
+				  <p>&nbsp;</p>
+				  <h4>Deportistas</h4>
+				  <strong><li>Greg Louganis</li>
+				  <li>				    Jackie  Stewart</li>
+				  </strong></p>
+				  <p>&nbsp; </p>
+				  <p>&nbsp;</p>
+				<!-- InstanceEndEditable --></div>
+			</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+	<div id="footer">
+		<div id="copyright">
+			<span>&#169;&nbsp;Derecho Reservados <br>M.Sc. Marcela Rodriguez Ocampo</span>
+			<div id="wfs"><br><br><br>Dise&#241;o y Mantemimiento Web por <a href="http://www.wfs-sistemas.com">WFS Sistemas</a></div>
+		</div>
+		<div id="payment"></div>
+	</div>	
+	<div id="footerend"></div>
+</div>
+</body>
+<!-- InstanceEnd --></html>
