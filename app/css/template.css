@@ -149,6 +149,11 @@ a:after {
 
 .port-space {
 	padding-bottom: 20px;
+	width: 32%;
+	background-color: #ffffff;
+	margin: 3px;
+	border-radius: 3px;
+	height: 100%;
 }
 
 
