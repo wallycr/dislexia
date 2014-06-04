@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Mi experiencia Personal"
 date:   2014-05-13 16:32:45
 categories: jekyll update
 ---
