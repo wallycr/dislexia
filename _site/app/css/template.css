@@ -80,7 +80,7 @@ a:after {
 #headerwrap {
 	background: url(../img/header-bg.jpg) no-repeat center top;
 	margin-top: -10px;
-	padding-top:10px;
+	padding-top:20px;
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
@@ -101,7 +101,7 @@ a:after {
 #headerwrap h1 {
 	margin-top: 130px;
 	color: white;
-	font-size: 7em;
+	font-size: 140px;
 	font-weight: 700;
 	letter-spacing: 3px;
 	line-height: 0.8em;
@@ -149,11 +149,6 @@ a:after {
 
 .port-space {
 	padding-bottom: 20px;
-	width: 32%;
-	background-color: #ffffff;
-	margin: 3px;
-	border-radius: 3px;
-	height: 100%;
 }
 
 
@@ -478,46 +473,4 @@ a:after {
 .team a {
 	padding-right: 10px;
 	padding-left: 10px;
-}
-
-@media screen and (max-width: 600px ) {
-	.port-space {
-		width: 95%;
-		margin: 5px auto;
-	}
-	#headerwrap h1  {
-		font-size: 1.5em;
-	}
-	#headerwrap h2  {
-		font-size: .9em;
-	}
-}
-
-@media screen and (max-width: 1024px ) and (min-width: 768px) {
-	.port-space {
-		width: 32%;
-		float: left;
-		margin: 5px;
-	}
-	#headerwrap h1 {
-		font-size: 4.5em;
-	}
-	#headerwrap h2 {
-		font-size: 2.5em;
-	}
-}
-
-@media screen and (max-width: 767px ) and (min-width: 601px) {
-	.port-space {
-		width: 45%;
-		float: left;
-		margin: 5px;
-	}
-	#headerwrap h1 {
-		font-size: 4.5em;
-	}
-	#headerwrap h2 {
-		font-size: 2.5em;
-	}
-
 }
