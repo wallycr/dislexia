@@ -97,13 +97,82 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+#headerwrap {
+    position:relative;
+}
+#fixedheaderwrap {
+    position:relative;
+    background-color: #c6c6c6;
+    height:90px;
+    box-shadow: 0 1px 5px -1px #333333;
+    ul {
+        float: right;
+        margin: 1em 4em;
+        list-style: none;
+        list-style-type: none;
+        li {
+            float:left;
+            width:auto;
+            color: white;
+            padding:3px 8px;
+        }
+    } 
+}
+#logo {
+    float: left;
+    margin: 0.5em 2em;
+    width:18%;
+    span{
+        float:right;
+        margin-top:1.5em;
+        width:64%;
+        font-size:0.6em;
+        line-height:0.9em;
+        text-align:center;
+    }
+    img{
+        float:left;
+    }
+}
+#davislogo {
+    float: left;
+    margin-top:0.3em;
+}
 
 
 
 
 
 
-
+@media screen and (max-width: 600px ){
+    #headerwrap {
+        display:none;
+    }
+    #fixedheaderwrap {
+        height:90px;
+        box-shadow: 0 1px 5px -1px #333333;
+        ul {
+            display:none;
+            float: left;
+            width:100%;
+            margin: 0;
+            li {
+                width:auto;
+                padding:3px 8px;
+                border:1px 1px 1px 1px solid #c6c6c6;
+            }
+        } 
+    }
+    #logo {
+        margin: 0.5em 1em;
+        span {
+            display:none;
+        }
+    }
+    #davislogo {
+        margin-top:0.3em;
+    }
+}
 
 
 
