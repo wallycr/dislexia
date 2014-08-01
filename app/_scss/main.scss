@@ -97,6 +97,16 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+
+h2{
+    padding-top: 90px;
+    font-size: 52px;
+}
+.item{ 
+    text-align: center;
+    height: 500px !important;
+}
+
 #headerwrap {
     position:relative;
 }
@@ -121,11 +131,11 @@ textarea {
 #logo {
     float: left;
     margin: 0.5em 2em;
-    width:18%;
+    width:270px;
     span{
         float:right;
         margin-top:1.5em;
-        width:64%;
+        width:180px;
         font-size:0.6em;
         line-height:0.9em;
         text-align:center;
@@ -164,9 +174,12 @@ textarea {
         } 
     }
     #logo {
-        margin: 0.5em 1em;
-        span {
-            display:none;
+        margin: 0.5em 3px;
+        width:57%;
+         span {
+            margin-top:1.5em;
+            width:145px;
+            font-size:0.6em;
         }
     }
     #davislogo {
